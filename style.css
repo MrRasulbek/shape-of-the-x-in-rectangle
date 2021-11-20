@@ -1,0 +1,15 @@
+body {
+               background-color: rgb(123, 12, 45);
+               height: 100vh;
+               display: flex;
+               align-items: center;
+               justify-content: center;
+}
+
+.title {
+               font-size: 50px;
+               letter-spacing: 0.05em;
+               color: yellow;
+               font-family: Georgia, 'Times New Roman', Times, serif;
+               text-align: center;
+}
